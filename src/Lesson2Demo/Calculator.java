@@ -1,7 +1,7 @@
 package Lesson2Demo;
 
 public class Calculator {
-    public int addNumbers(int n1, int n2)
+    public final int addNumbers(int n1, int n2)
     {
         return n1 + n2;
     }

@@ -10,4 +10,8 @@ public class Employee {
     public void setEmpNum(int empNum) {
         this.empNum = empNum;
     }
+
+     protected final void computeSalary(){
+
+    }
 }
